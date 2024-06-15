@@ -107,7 +107,7 @@
     "find-versions": "4.0.0",
     "get-port": "5.1.1",
     "glob-promise": "4.1.0",
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "mocha": "10.0.0",
     "mock-fs": "4.13.0",
     "mock-http-server": "1.4.2",
